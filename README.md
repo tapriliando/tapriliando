@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @tapriliando
-- 👀 I’m interested in Data Science, I'm trying to answer any question with data.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Product Development
+# 👋 Hi there, I’m **Tapriliando** (@tapriliando)
 
-<!---
-tapriliando/tapriliando is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🚀 Aspiring to build world-class Machine Learning systems that solve real-world problems at scale.**
+---
+
+### 🌱 I’m currently on Sven Technology
+
+---
+
+### 🌟 What I bring to the table:
+- Leonida AI (Agentic AI)
+- Sven AI (AI + RAG System)
+- Sven Intelligence Bin (Physical AI)
+
+---
+
+### 🤝 Let’s collaborate if you’re working on:
+- B2B SaaS Startup
+- Agentic AI & AI Automation
+- NLP & Vision Computer Machine Learning Modeling
+
+---
+
+### 🔭 Recent Projects
+- Multitenant System for Leonida AI
+- SQL Generator Agent (Agent as a Data Analyst for Leonida AI)
+
