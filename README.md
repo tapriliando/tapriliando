@@ -3,7 +3,7 @@
 **🚀 Aspiring to build world-class Machine Learning & AI systems that solve real-world problems at scale.**
 ---
 
-### 🌱 I’m currently on Sven Technology
+### 🌱 I’m currently on Sven Technology as a Founder
 
 ---
 
