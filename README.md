@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 What I bring to the table:
+### 🌟 What Sven Tech bring to the table:
 - Leonida AI (Agentic AI)
 - Sven AI (AI + RAG System)
 - Sven Intelligence Bin (Physical AI)
