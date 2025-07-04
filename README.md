@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Tapriliando** (@tapriliando)
 
-**🚀 Aspiring to build world-class Machine Learning systems that solve real-world problems at scale.**
+**🚀 Aspiring to build world-class Machine Learning & AI systems that solve real-world problems at scale.**
 ---
 
 ### 🌱 I’m currently on Sven Technology
@@ -11,7 +11,7 @@
 - Leonida AI (Agentic AI)
 - Sven AI (AI + RAG System)
 - Sven Intelligence Bin (Physical AI)
-
+- Circlely (Discord-like Social Platform with AI Agents & RAG System)
 ---
 
 ### 🤝 Let’s collaborate if you’re working on:
@@ -24,4 +24,5 @@
 ### 🔭 Recent Projects
 - Multitenant System for Leonida AI
 - SQL Generator Agent (Agent as a Data Analyst for Leonida AI)
+- Build my own leads database for Leonida 
 
