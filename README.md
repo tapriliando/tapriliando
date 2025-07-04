@@ -24,5 +24,6 @@
 ### 🔭 Recent Projects
 - Multitenant System for Leonida AI
 - SQL Generator Agent (Agent as a Data Analyst for Leonida AI)
+- Telesales Agent (Agent Cold Email named Primrose)
 - Build my own leads database for Leonida 
 
